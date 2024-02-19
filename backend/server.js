@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
-import cookieParse from "cookie-parse";
+import cookieParse from "cookie-parser";
 import authRoute from "./routes/authRoute.js";
 import messageRoute from "./routes/messageRoute.js";
 import usersRoute from "./routes/usersRoute.js";

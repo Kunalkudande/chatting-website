@@ -23,7 +23,7 @@ const Message = () => {
 				</div>
 			</div>
 			<div className={`chat-bubble text-white bg-blue-500`}>Hi! What upp</div>
-			<div className='chat-footer opacity-50 text-xs flex gap-1 items-center'>12:42</div>
+			<div className='chat-footer opacity-50 text-xs flex gap-1 items-center text-white'>12:42</div>
 		</div>
 	);
 };

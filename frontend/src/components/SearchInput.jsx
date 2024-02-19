@@ -1,6 +1,6 @@
 const SearchInput = () =>{
     return <>
-        <form className="flex items-center gap-2">
+        <form className="flex items-center gap-2 ">
             <input type="text" placeholder="Search..." className="input input-bordered rounded-full"/>
             <button type="submit" className="btn btn-circle bg-sky-500 text-white">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
